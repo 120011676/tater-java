@@ -4,7 +4,7 @@
 
 plugins {
     // Apply the common convention plugin for shared build configuration between library and application projects.
-    id("com.github.qq120011676.kotlin-common-conventions")
+    id("buildlogic.kotlin-common-conventions")
 
     // Apply the application plugin to add support for building a CLI application in Java.
     application

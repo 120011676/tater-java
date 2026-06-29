@@ -3,5 +3,5 @@
  */
 
 plugins {
-    id("com.github.qq120011676.kotlin-library-conventions")
+    id("buildlogic.kotlin-library-conventions")
 }

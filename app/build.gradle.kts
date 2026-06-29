@@ -3,7 +3,7 @@
  */
 
 plugins {
-    id("com.github.qq120011676.kotlin-application-conventions")
+    id("buildlogic.kotlin-application-conventions")
 }
 
 dependencies {
@@ -13,5 +13,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("com.github.qq120011676.app.AppKt")
+    mainClass = "org.example.app.AppKt"
 }
